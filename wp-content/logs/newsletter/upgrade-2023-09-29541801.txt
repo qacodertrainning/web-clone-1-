@@ -1,0 +1,28 @@
+07-09-2023 03:32:39 - INFO  - 7.9.2 - 70.1 MB/512 MB - webclon1 > Start upgrade from 7.8.7
+07-09-2023 03:32:39 - INFO  - 7.9.2 - 73.0 MB/512 MB - webclon1 > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+07-09-2023 03:32:39 - INFO  - 7.9.2 - 73.0 MB/512 MB - webclon1 > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+07-09-2023 03:32:39 - INFO  - 7.9.2 - 73.1 MB/512 MB - webclon1 > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+07-09-2023 03:32:39 - INFO  - 7.9.2 - 73.0 MB/512 MB - webclon1 > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+07-09-2023 03:32:39 - INFO  - 7.9.2 - 73.0 MB/512 MB - webclon1 > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+07-09-2023 03:32:39 - INFO  - 7.9.2 - 73.0 MB/512 MB - webclon1 > Backing up options of 7.8.7
+07-09-2023 03:32:39 - INFO  - 7.9.2 - 73.1 MB/512 MB - webclon1 > End

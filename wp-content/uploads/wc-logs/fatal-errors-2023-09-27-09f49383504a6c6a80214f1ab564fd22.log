@@ -1,0 +1,2 @@
+2023-09-27T07:31:58+00:00 CRITICAL Cannot redeclare custom_acf_brand_shortcode() (previously declared in C:\xampp\htdocs\webclone1\wp-content\themes\hello-elementor\functions.php:243) in C:\xampp\htdocs\webclone1\wp-content\plugins\insert-headers-and-footers\includes\class-wpcode-snippet-execute.php(287) : eval()'d code on line 13
+

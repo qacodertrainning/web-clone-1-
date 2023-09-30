@@ -1,0 +1,28 @@
+23-06-2023 10:01:12 - INFO  - 7.8.7 - 71.8 MB/512 MB - webclon1 > Start upgrade from 0.0.0
+23-06-2023 10:01:12 - INFO  - 7.8.7 - 74.8 MB/512 MB - webclon1 > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+23-06-2023 10:01:12 - INFO  - 7.8.7 - 74.8 MB/512 MB - webclon1 > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+23-06-2023 10:01:12 - INFO  - 7.8.7 - 74.8 MB/512 MB - webclon1 > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+23-06-2023 10:01:12 - INFO  - 7.8.7 - 74.8 MB/512 MB - webclon1 > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+23-06-2023 10:01:12 - INFO  - 7.8.7 - 74.8 MB/512 MB - webclon1 > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+23-06-2023 10:01:12 - INFO  - 7.8.7 - 74.8 MB/512 MB - webclon1 > Backing up options of 0.0.0
+23-06-2023 10:01:12 - INFO  - 7.8.7 - 74.8 MB/512 MB - webclon1 > End
